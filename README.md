@@ -15,5 +15,5 @@ Algunas de mis pasiones, más allá de la tecnología, son la **política**, la 
 
 ### 📖 Rincón de lectura
 
-* 📚 **[Loqueleo](https://github.com/TU_USUARIO/Loqueleo)** — Un repositorio personal recién creado donde escribo resúmenes y reflexiones sobre los libros que voy leyendo.
-  * *Última entrada:* [🐖 George Orwell y los cerdos autoritarios](https://github.com/TU_USUARIO/Loqueleo/blob/main/orwell_y_totalitarismo.md)
+* 📚 **[Loqueleo](https://github.com/Maritoz/Loqueleo)** — Un repositorio personal recién creado donde escribo resúmenes y reflexiones sobre los libros que voy leyendo.
+  * *Última entrada:* [🐖 George Orwell y los cerdos autoritarios](https://github.com/Maritoz/Loqueleo/blob/main/orwell_y_totalitarismo.md)
