@@ -1,0 +1,47 @@
+<svg width="420" height="104" viewBox="0 0 420 104" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <style>
+    .bg { fill: #121212; stroke: #282828; stroke-width: 1.5; }
+    .title { font: 600 10.5px 'Segoe UI', Ubuntu, Sans-Serif; fill: #1DB954; letter-spacing: 0.8px; text-transform: uppercase; }
+    .song { font: 700 13.5px 'Segoe UI', Ubuntu, Sans-Serif; fill: #FFFFFF; }
+    .artist { font: 400 12.5px 'Segoe UI', Ubuntu, Sans-Serif; fill: #B3B3B3; }
+    .bar { fill: #1DB954; rx: 1.5px; }
+    .bar1 { animation: pulse 0.9s infinite ease-in-out alternate; }
+    .bar2 { animation: pulse 0.6s infinite ease-in-out alternate 0.2s; }
+    .bar3 { animation: pulse 0.75s infinite ease-in-out alternate 0.4s; }
+    .bar4 { animation: pulse 0.55s infinite ease-in-out alternate 0.1s; }
+    @keyframes pulse {
+      0% { height: 4px; y: 78px; }
+      100% { height: 18px; y: 64px; }
+    }
+  </style>
+
+  <defs>
+    <clipPath id="albumClip">
+      <rect x="16" y="16" width="72" height="72" rx="8" />
+    </clipPath>
+  </defs>
+
+  <!-- Card Background -->
+  <rect x="1" y="1" width="418" height="102" rx="12" class="bg"/>
+
+  <!-- Album Cover: Soda Stereo - Sueño Stereo -->
+  <image x="16" y="16" width="72" height="72" clip-path="url(#albumClip)" preserveAspectRatio="xMidYMid slice" href="data:image/jpeg;base64,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" />
+  <rect x="16" y="16" width="72" height="72" rx="8" fill="none" stroke="#333333" stroke-width="1"/>
+
+  <!-- Spotify Icon + Header -->
+  <g transform="translate(104, 23)">
+    <circle cx="7" cy="7" r="7" fill="#1DB954"/>
+    <path d="M10.2 6.2C8.1 5.3 4.8 5.2 3.1 5.7C2.8 5.8 2.5 5.6 2.4 5.3C2.3 5 2.5 4.7 2.8 4.6C4.8 4 8.4 4.1 10.8 5.2C11.1 5.3 11.2 5.7 11 6C10.9 6.2 10.5 6.3 10.2 6.2ZM9.8 8.3C9.6 8.5 9.3 8.6 9.1 8.4C7.4 7.4 4.9 7.1 3.3 7.6C3 7.7 2.7 7.5 2.6 7.2C2.5 6.9 2.7 6.6 3 6.5C4.9 5.9 7.7 6.2 9.6 7.4C9.9 7.6 10 7.9 9.8 8.3ZM8.9 10.3C8.8 10.5 8.5 10.6 8.3 10.4C6.9 9.5 5.1 9.3 3.4 9.7C3.2 9.8 2.9 9.6 2.9 9.4C2.8 9.2 3 8.9 3.2 8.9C5.1 8.4 7.1 8.7 8.7 9.7C9 9.8 9 10.1 8.9 10.3Z" fill="#121212"/>
+    <text x="20" y="11" class="title">Spotify • Canción favorita</text>
+  </g>
+
+  <!-- Track & Artist -->
+  <text x="104" y="56" class="song">Ella Usó Mi Cabeza Como un Revólver</text>
+  <text x="104" y="76" class="artist">Soda Stereo • Sueño Stereo</text>
+
+  <!-- Animated Equalizer Bars -->
+  <rect x="374" y="64" width="3.5" height="18" class="bar bar1"/>
+  <rect x="381" y="68" width="3.5" height="14" class="bar bar2"/>
+  <rect x="388" y="62" width="3.5" height="20" class="bar bar3"/>
+  <rect x="395" y="70" width="3.5" height="12" class="bar bar4"/>
+</svg>
