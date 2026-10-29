@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.svg" alt="Pixel Art Landscape Banner" width="100%" />
+  <img src="./banner.png" alt="Pixel Art Landscape Banner" width="100%" />
 </p>
 
 # Hola, soy Mario Osorio <img src="./saludo.gif" width="45" align="center" alt="Saludo" />
